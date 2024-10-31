@@ -1,0 +1,80 @@
+.gridContainer {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.detailContainer {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.historicalData {
+  height: 300px;
+  margin-top: 10px;
+}
+
+.historicalData h4 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.tooltip-container {
+  background: white;
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.tooltip-title {
+  font-weight: bold;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.tooltip-date {
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.tooltip-data {
+  display: grid;
+  gap: 2px;
+}
+
+.tooltip-data div {
+  color: #444;
+}
+
+.historicalData {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.historicalData h4 {
+  margin-bottom: 16px;
+  color: #333;
+  font-size: 16px;
+}
+
+.loading {
+  padding: 20px;
+  text-align: center;
+  color: #666;
+  background: #f8f9fa;
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+.error {
+  padding: 20px;
+  text-align: center;
+  color: #dc3545;
+  background: #f8d7da;
+  border-radius: 4px;
+  margin: 20px 0;
+  border: 1px solid #f5c6cb;
+} 

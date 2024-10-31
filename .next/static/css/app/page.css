@@ -1,0 +1,111 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/components/DataSwitch.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************/
+.DataSwitch_switchContainer__oIs1w {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.DataSwitch_switchButton__a0UI4 {
+  padding: 8px 16px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.DataSwitch_switchButton__a0UI4:hover {
+  background-color: #f5f5f5;
+}
+
+.DataSwitch_dataStatus__ST1fM {
+  font-size: 14px;
+  color: #666;
+} 
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/components/StockGrid.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.StockGrid_gridContainer__3xG1D {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.StockGrid_detailContainer__wDfNe {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.StockGrid_historicalData__VUwTs {
+  height: 300px;
+  margin-top: 10px;
+}
+
+.StockGrid_historicalData__VUwTs h4 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.StockGrid_tooltip-container__YMMLz {
+  background: white;
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.StockGrid_tooltip-title__z0ywg {
+  font-weight: bold;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.StockGrid_tooltip-date__O5wqf {
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.StockGrid_tooltip-data__2QgC2 {
+  display: grid;
+  gap: 2px;
+}
+
+.StockGrid_tooltip-data__2QgC2 div {
+  color: #444;
+}
+
+.StockGrid_historicalData__VUwTs {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.StockGrid_historicalData__VUwTs h4 {
+  margin-bottom: 16px;
+  color: #333;
+  font-size: 16px;
+}
+
+.StockGrid_loading__oPA1i {
+  padding: 20px;
+  text-align: center;
+  color: #666;
+  background: #f8f9fa;
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+.StockGrid_error__6h6i4 {
+  padding: 20px;
+  text-align: center;
+  color: #dc3545;
+  background: #f8d7da;
+  border-radius: 4px;
+  margin: 20px 0;
+  border: 1px solid #f5c6cb;
+} 

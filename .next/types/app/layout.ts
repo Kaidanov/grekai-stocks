@@ -1,4 +1,4 @@
-// File: C:\Projects\react-ts\my-app\app\layout.tsx
+// File: C:\Projects\react-ts\grekai-stock\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
