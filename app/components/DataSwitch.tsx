@@ -1,7 +1,7 @@
 "use client";
 
 import React from 'react';
-import styles from './DataSwitch.module.css';
+import styles from './DataSwitch.module.scss';
 
 interface DataSwitchProps {
   isRealData: boolean;

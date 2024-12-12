@@ -1,3 +1,7 @@
-import { registerLicense } from '@syncfusion/ej2-base';
+import type { AppProps } from 'next/app';
 
-registerLicense('Ngo9BigBOggjHTQxAR8/V1NDaF5cWWtCf1JpTHxbf1x0ZFZMYlVbRHZPMyBoS35RckRjWn9ed3RXRmNUWUFx'); 
+function MyApp({ Component, pageProps }: AppProps) {
+  return <Component {...pageProps} />;
+}
+
+export default MyApp; 

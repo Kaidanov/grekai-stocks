@@ -1,9 +1,8 @@
 "use client";
 
 import { Inter } from "next/font/google";
-import "./globals.css";
-import MainMenu from "./components/MainMenu";
 import { useState, useEffect } from "react";
+import { registerLicense } from '@syncfusion/ej2-base';
 
 // Syncfusion CSS imports
 import '@syncfusion/ej2-base/styles/material.css';
@@ -12,6 +11,12 @@ import '@syncfusion/ej2-navigations/styles/material.css';
 import '@syncfusion/ej2-buttons/styles/material.css';
 import '@syncfusion/ej2-react-navigations/styles/material.css';
 import '@syncfusion/ej2-popups/styles/material.css';
+
+import "./globals.css";
+import MainMenu from "./components/MainMenu";
+
+// Register Syncfusion license
+registerLicense('Ngo9BigBOggjHTQxAR8/V1NDaF5cWWtCf1JpTHxbf1x0ZFZMYlVbRHZPMyBoS35RckRjWn9ed3RXRmNUWUFx');
 
 const inter = Inter({ subsets: ["latin"] });
 
