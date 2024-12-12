@@ -2,7 +2,8 @@
 
 A real-time stock tracking application built with Next.js and Syncfusion components.
 
-![Grekai Stocks Dashboard](docs/dashboard.png)
+![Grekai Stocks Dashboard](https://github.com/user-attachments/assets/1dff58e9-1dd5-4481-a3e6-017d9cb2e1ef)
+
 
 ## Features
 
